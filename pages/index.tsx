@@ -81,7 +81,7 @@ export default function Home() {
                         rel="noopener noreferrer"
                     >
                         <h2>
-                            Email <span>-&gt;</span>
+                            Twitter <span>-&gt;</span>
                         </h2>
                         <p >
                             twitter.com/mnshkk
