@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+// import Image from 'next/image'
 // import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 
@@ -31,7 +31,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className={styles.grid}>
+                {/* <div className={styles.grid}>
                     <a
                         href="https://github.com/mnshk"
                         className={styles.card}
@@ -87,20 +87,7 @@ export default function Home() {
                             twitter.com/mnshkk
                         </p>
                     </a>
-                    {/* <a
-                        href="mailto:hi@born11.com"
-                        className={styles.card}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        <h2>
-                            Email <span>-&gt;</span>
-                        </h2>
-                        <p>
-                            hi@born11.com
-                        </p>
-                    </a> */}
-                </div>
+                </div> */}
 
             </main>
         </>
